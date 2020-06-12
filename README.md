@@ -1,5 +1,5 @@
 # Fefo Explains Java
-## oh no · -·
+## oh no · -· (don't judge me, okay? I've never done this to this level of extension and I don't really like Java anyway)
 What an absolute nightmare of a language to make programs... but Bukkit doesn't give us any other options, huh.
 **I'll let you know from the very beginning that I *encourage* you to ask me (or look for online resources) if you think you don't understand something, even if it's the very slightest, meaningless thing, as I'll try to cover what we'll be using and what's necessary.**
 
