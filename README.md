@@ -109,6 +109,14 @@ public class Location {
   public double getZ() {
     return x; // lmao.
   }
+  // Pretty much self explanatory at this point.
+  public float getYaw() {
+    return yaw;
+  }
+  // Stop it with the comments, Fefo.
+  public float getPitch() {
+    return pitch;
+  }
 }
 ```
 Now, all fancy dandy, but, how do I modify the variables if you only provide "getters" for them? Wouldn't them always be 0? How can an entity change its position if it can't be modified? And how would each entity and each block have its own location if there is only one `Location` class? And all that.. I'll answer tomorrow, I'm tired now to write more ;-;
